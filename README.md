@@ -1,1 +1,1 @@
-# MySQL-Assignments
+# MySQL
